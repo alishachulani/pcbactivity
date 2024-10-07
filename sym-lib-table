@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tempsensor")(type "KiCad")(uri "${KIPRJMOD}/tempsensor.kicad_sym")(options "")(descr ""))
+)
